@@ -195,3 +195,8 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.boxed {
+  border: 1px solid grey ;
+  padding: 6px;
+}
